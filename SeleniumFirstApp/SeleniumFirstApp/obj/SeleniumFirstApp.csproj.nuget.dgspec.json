@@ -49,6 +49,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            },
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[4.34.0, )"

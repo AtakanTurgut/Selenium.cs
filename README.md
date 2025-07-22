@@ -9,3 +9,9 @@
 ```
     > dotnet add package WebDriverManager --version 2.17.6
 ```
+
+## NUnit Assertions
+- [NUnit 4.3.2](https://www.nuget.org/packages/NUnit/4.3.2)
+```
+    > dotnet add package NUnit --version 4.3.2
+```

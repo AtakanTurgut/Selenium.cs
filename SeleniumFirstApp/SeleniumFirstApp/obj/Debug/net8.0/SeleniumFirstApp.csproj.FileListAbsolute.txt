@@ -22,3 +22,6 @@ C:\Users\Excalibur\Desktop\cs-Selenium\SeleniumFirstApp\SeleniumFirstApp\obj\Deb
 C:\Users\Excalibur\Desktop\cs-Selenium\SeleniumFirstApp\SeleniumFirstApp\obj\Debug\net8.0\SeleniumFirstApp.pdb
 C:\Users\Excalibur\Desktop\cs-Selenium\SeleniumFirstApp\SeleniumFirstApp\obj\Debug\net8.0\SeleniumFirstApp.genruntimeconfig.cache
 C:\Users\Excalibur\Desktop\cs-Selenium\SeleniumFirstApp\SeleniumFirstApp\obj\Debug\net8.0\ref\SeleniumFirstApp.dll
+C:\Users\Excalibur\Desktop\cs-Selenium\SeleniumFirstApp\SeleniumFirstApp\obj\Debug\net8.0\SeleniumFirstApp.sourcelink.json
+C:\Users\Excalibur\Desktop\cs-Selenium\SeleniumFirstApp\SeleniumFirstApp\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\Excalibur\Desktop\cs-Selenium\SeleniumFirstApp\SeleniumFirstApp\bin\Debug\net8.0\nunit.framework.legacy.dll
