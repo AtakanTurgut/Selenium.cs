@@ -28,11 +28,11 @@ namespace SeleniumFirstApp
             searchInput.SendKeys(Keys.Enter);
 
             /* NUnit Assertions */
-            var actualItems = driver.FindElements(By.CssSelector("[data-testid='results-list'] > div"))     // IList<string> actualItems
+            IList<string> actualItems = driver.FindElements(By.CssSelector("[data-testid='results-list'] > div"))
                 .Select(item => item.Text.ToLower())
                 .ToList();
 
-            var expectedItems = actualItems     // IList<string> expectedItems
+            IList<string> expectedItems = actualItems
                 .Where(item => item.Contains(searchPhrase))     // "invalid" test AssertionException
                 .ToList();
 

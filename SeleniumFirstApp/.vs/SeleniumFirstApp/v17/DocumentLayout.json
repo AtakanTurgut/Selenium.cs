@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{7EFC7C95-3557-4D49-866F-1FA3C1E6F5FB}|SeleniumFirstApp\\SeleniumFirstApp.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\seleniumfirstapp\\simpleapplicationrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EFC7C95-3557-4D49-866F-1FA3C1E6F5FB}|SeleniumFirstApp\\SeleniumFirstApp.csproj|solutionrelative:seleniumfirstapp\\simpleapplicationrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D37CE7-7B95-4355-B536-A141579FC655}|NUnitSeleniumTest\\NUnitSeleniumTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\nunitseleniumtest\\nunitseleniumtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1D37CE7-7B95-4355-B536-A141579FC655}|NUnitSeleniumTest\\NUnitSeleniumTest.csproj|solutionrelative:nunitseleniumtest\\nunitseleniumtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D37CE7-7B95-4355-B536-A141579FC655}|NUnitSeleniumTest\\NUnitSeleniumTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\nunitseleniumtest\\githubtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D37CE7-7B95-4355-B536-A141579FC655}|NUnitSeleniumTest\\NUnitSeleniumTest.csproj|solutionrelative:nunitseleniumtest\\githubtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NUnitSeleniumTest",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\NUnitSeleniumTest\\NUnitSeleniumTest.csproj",
+              "RelativeDocumentMoniker": "NUnitSeleniumTest\\NUnitSeleniumTest.csproj",
+              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\NUnitSeleniumTest\\NUnitSeleniumTest.csproj",
+              "RelativeToolTip": "NUnitSeleniumTest\\NUnitSeleniumTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T16:48:10.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,9 +49,22 @@
               "RelativeDocumentMoniker": "SeleniumFirstApp\\SimpleApplicationRunner.cs",
               "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\SeleniumFirstApp\\SimpleApplicationRunner.cs",
               "RelativeToolTip": "SeleniumFirstApp\\SimpleApplicationRunner.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB0AAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T10:29:17.602Z",
+              "WhenOpened": "2025-07-22T16:36:53.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GitHubTest.cs",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\NUnitSeleniumTest\\GitHubTest.cs",
+              "RelativeDocumentMoniker": "NUnitSeleniumTest\\GitHubTest.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\NUnitSeleniumTest\\GitHubTest.cs",
+              "RelativeToolTip": "NUnitSeleniumTest\\GitHubTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:06:27.425Z",
               "EditorCaption": ""
             }
           ]
