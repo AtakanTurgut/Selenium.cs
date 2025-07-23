@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1D37CE7-7B95-4355-B536-A141579FC655}|NUnitSeleniumTest\\NUnitSeleniumTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\nunitseleniumtest\\githubpageobjecttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1D37CE7-7B95-4355-B536-A141579FC655}|NUnitSeleniumTest\\NUnitSeleniumTest.csproj|solutionrelative:nunitseleniumtest\\githubpageobjecttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\webcomponenttest\\components\\impl\\searchresultitemcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|solutionrelative:webcomponenttest\\components\\impl\\searchresultitemcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1D37CE7-7B95-4355-B536-A141579FC655}|NUnitSeleniumTest\\NUnitSeleniumTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\nunitseleniumtest\\pages\\impl\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1D37CE7-7B95-4355-B536-A141579FC655}|NUnitSeleniumTest\\NUnitSeleniumTest.csproj|solutionrelative:nunitseleniumtest\\pages\\impl\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\webcomponenttest\\pages\\impl\\searchresultspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|solutionrelative:webcomponenttest\\pages\\impl\\searchresultspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1D37CE7-7B95-4355-B536-A141579FC655}|NUnitSeleniumTest\\NUnitSeleniumTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\nunitseleniumtest\\pages\\impl\\searchresultspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1D37CE7-7B95-4355-B536-A141579FC655}|NUnitSeleniumTest\\NUnitSeleniumTest.csproj|solutionrelative:nunitseleniumtest\\pages\\impl\\searchresultspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\webcomponenttest\\components\\webcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|solutionrelative:webcomponenttest\\components\\webcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1D37CE7-7B95-4355-B536-A141579FC655}|NUnitSeleniumTest\\NUnitSeleniumTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\nunitseleniumtest\\pages\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1D37CE7-7B95-4355-B536-A141579FC655}|NUnitSeleniumTest\\NUnitSeleniumTest.csproj|solutionrelative:nunitseleniumtest\\pages\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\webcomponenttest\\components\\impl\\searchcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|solutionrelative:webcomponenttest\\components\\impl\\searchcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\webcomponenttest\\pages\\impl\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|solutionrelative:webcomponenttest\\pages\\impl\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\webcomponenttest\\githubwebcomponenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|solutionrelative:webcomponenttest\\githubwebcomponenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\webcomponenttest\\pages\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|solutionrelative:webcomponenttest\\pages\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +46,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebPage.cs",
-              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\NUnitSeleniumTest\\Pages\\WebPage.cs",
-              "RelativeDocumentMoniker": "NUnitSeleniumTest\\Pages\\WebPage.cs",
-              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\NUnitSeleniumTest\\Pages\\WebPage.cs",
-              "RelativeToolTip": "NUnitSeleniumTest\\Pages\\WebPage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "DocumentIndex": 0,
+              "Title": "SearchResultItemComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Components\\Impl\\SearchResultItemComponent.cs",
+              "RelativeDocumentMoniker": "WebComponentTest\\Components\\Impl\\SearchResultItemComponent.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Components\\Impl\\SearchResultItemComponent.cs",
+              "RelativeToolTip": "WebComponentTest\\Components\\Impl\\SearchResultItemComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T09:36:03.506Z",
+              "WhenOpened": "2025-07-23T10:55:39.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Components\\Impl\\SearchComponent.cs",
+              "RelativeDocumentMoniker": "WebComponentTest\\Components\\Impl\\SearchComponent.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Components\\Impl\\SearchComponent.cs",
+              "RelativeToolTip": "WebComponentTest\\Components\\Impl\\SearchComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:30:14.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SearchResultsPage.cs",
-              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\NUnitSeleniumTest\\Pages\\Impl\\SearchResultsPage.cs",
-              "RelativeDocumentMoniker": "NUnitSeleniumTest\\Pages\\Impl\\SearchResultsPage.cs",
-              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\NUnitSeleniumTest\\Pages\\Impl\\SearchResultsPage.cs",
-              "RelativeToolTip": "NUnitSeleniumTest\\Pages\\Impl\\SearchResultsPage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Title": "WebComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Components\\WebComponent.cs",
+              "RelativeDocumentMoniker": "WebComponentTest\\Components\\WebComponent.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Components\\WebComponent.cs",
+              "RelativeToolTip": "WebComponentTest\\Components\\WebComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T09:21:29.538Z",
+              "WhenOpened": "2025-07-23T10:47:38.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomePage.cs",
-              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\NUnitSeleniumTest\\Pages\\Impl\\HomePage.cs",
-              "RelativeDocumentMoniker": "NUnitSeleniumTest\\Pages\\Impl\\HomePage.cs",
-              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\NUnitSeleniumTest\\Pages\\Impl\\HomePage.cs",
-              "RelativeToolTip": "NUnitSeleniumTest\\Pages\\Impl\\HomePage.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAACfAAAA",
+              "Title": "SearchResultsPage.cs",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Pages\\Impl\\SearchResultsPage.cs",
+              "RelativeDocumentMoniker": "WebComponentTest\\Pages\\Impl\\SearchResultsPage.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Pages\\Impl\\SearchResultsPage.cs",
+              "RelativeToolTip": "WebComponentTest\\Pages\\Impl\\SearchResultsPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T09:10:00.114Z",
+              "WhenOpened": "2025-07-23T10:45:42.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GitHubPageObjectTest.cs",
-              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\NUnitSeleniumTest\\GitHubPageObjectTest.cs",
-              "RelativeDocumentMoniker": "NUnitSeleniumTest\\GitHubPageObjectTest.cs",
-              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\NUnitSeleniumTest\\GitHubPageObjectTest.cs",
-              "RelativeToolTip": "NUnitSeleniumTest\\GitHubPageObjectTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "DocumentIndex": 5,
+              "Title": "GitHubWebComponentTest.cs",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\GitHubWebComponentTest.cs",
+              "RelativeDocumentMoniker": "WebComponentTest\\GitHubWebComponentTest.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\GitHubWebComponentTest.cs",
+              "RelativeToolTip": "WebComponentTest\\GitHubWebComponentTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T09:17:38.597Z",
+              "WhenOpened": "2025-07-23T10:43:40.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebPage.cs",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Pages\\WebPage.cs",
+              "RelativeDocumentMoniker": "WebComponentTest\\Pages\\WebPage.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Pages\\WebPage.cs",
+              "RelativeToolTip": "WebComponentTest\\Pages\\WebPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:32:10.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Pages\\Impl\\HomePage.cs",
+              "RelativeDocumentMoniker": "WebComponentTest\\Pages\\Impl\\HomePage.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Pages\\Impl\\HomePage.cs",
+              "RelativeToolTip": "WebComponentTest\\Pages\\Impl\\HomePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:30:36.821Z",
               "EditorCaption": ""
             }
           ]
