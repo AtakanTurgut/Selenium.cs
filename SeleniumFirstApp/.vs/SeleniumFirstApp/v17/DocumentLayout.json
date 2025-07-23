@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\webcomponenttest\\githubwebcomponenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|solutionrelative:webcomponenttest\\githubwebcomponenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\webcomponenttest\\entities\\searchresultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|solutionrelative:webcomponenttest\\entities\\searchresultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\webcomponenttest\\components\\impl\\searchresultitemcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|solutionrelative:webcomponenttest\\components\\impl\\searchresultitemcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|solutionrelative:webcomponenttest\\pages\\impl\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\webcomponenttest\\githubwebcomponenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|solutionrelative:webcomponenttest\\githubwebcomponenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|c:\\users\\excalibur\\desktop\\cs-selenium\\seleniumfirstapp\\webcomponenttest\\pages\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57FF27B9-A229-42DD-B830-6A0488808B5B}|WebComponentTest\\WebComponentTest.csproj|solutionrelative:webcomponenttest\\pages\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +50,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "SearchResultItem.cs",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Entities\\SearchResultItem.cs",
+              "RelativeDocumentMoniker": "WebComponentTest\\Entities\\SearchResultItem.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Entities\\SearchResultItem.cs",
+              "RelativeToolTip": "WebComponentTest\\Entities\\SearchResultItem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:59:48.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SearchResultItemComponent.cs",
               "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Components\\Impl\\SearchResultItemComponent.cs",
               "RelativeDocumentMoniker": "WebComponentTest\\Components\\Impl\\SearchResultItemComponent.cs",
               "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Components\\Impl\\SearchResultItemComponent.cs",
               "RelativeToolTip": "WebComponentTest\\Components\\Impl\\SearchResultItemComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T10:55:39.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SearchComponent.cs",
               "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Components\\Impl\\SearchComponent.cs",
               "RelativeDocumentMoniker": "WebComponentTest\\Components\\Impl\\SearchComponent.cs",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WebComponent.cs",
               "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Components\\WebComponent.cs",
               "RelativeDocumentMoniker": "WebComponentTest\\Components\\WebComponent.cs",
@@ -85,33 +102,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SearchResultsPage.cs",
               "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Pages\\Impl\\SearchResultsPage.cs",
               "RelativeDocumentMoniker": "WebComponentTest\\Pages\\Impl\\SearchResultsPage.cs",
               "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Pages\\Impl\\SearchResultsPage.cs",
               "RelativeToolTip": "WebComponentTest\\Pages\\Impl\\SearchResultsPage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T10:45:42.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "GitHubWebComponentTest.cs",
               "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\GitHubWebComponentTest.cs",
               "RelativeDocumentMoniker": "WebComponentTest\\GitHubWebComponentTest.cs",
               "ToolTip": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\GitHubWebComponentTest.cs",
               "RelativeToolTip": "WebComponentTest\\GitHubWebComponentTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCwAAAB9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T10:43:40.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "WebPage.cs",
               "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Pages\\WebPage.cs",
               "RelativeDocumentMoniker": "WebComponentTest\\Pages\\WebPage.cs",
@@ -119,12 +136,11 @@
               "RelativeToolTip": "WebComponentTest\\Pages\\WebPage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:32:10.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T10:32:10.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "HomePage.cs",
               "DocumentMoniker": "C:\\Users\\Excalibur\\Desktop\\cs-Selenium\\SeleniumFirstApp\\WebComponentTest\\Pages\\Impl\\HomePage.cs",
               "RelativeDocumentMoniker": "WebComponentTest\\Pages\\Impl\\HomePage.cs",
@@ -132,8 +148,7 @@
               "RelativeToolTip": "WebComponentTest\\Pages\\Impl\\HomePage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:30:36.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T10:30:36.821Z"
             }
           ]
         }

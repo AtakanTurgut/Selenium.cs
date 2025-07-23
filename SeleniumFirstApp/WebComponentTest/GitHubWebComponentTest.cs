@@ -1,5 +1,6 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using WebComponentTest.Entities;
 using WebComponentTest.Pages.Impl;
 using WebDriverManager;
 using WebDriverManager.DriverConfigs.Impl;
@@ -36,14 +37,16 @@ namespace WebComponentTest
 
             var searchResultsPage = new SearchResultsPage(driver);
 
-            /* NUnit Assertions */
-            IList<string> actualItems = searchResultsPage.SearchResultsItemsText();
+            /* NUnit Assertions */  /* DTO */
+            IList<SearchResultItem> actualItems = searchResultsPage.SearchResultsItemsText();                       // IList<string>
 
-            IList<string> expectedItems = actualItems
-                .Where(item => item.Contains(SearchPhrase))   
+            IList<SearchResultItem> expectedItems = searchResultsPage.SearchResultsItemsText() // actualItems       // IList<string>
+                                                 // searchResultsPage.SearchResultsItemsText() -> Error:: Assert.That(expectedItems, Is.EqualTo(actualItems)) Values differ at index [0]
+                                                 // SearchResultItem --> Generate Equals and GetHashCode... solved the error.
+                .Where(item => item.Title.Contains(SearchPhrase) || item.Description.Contains(SearchPhrase))        // item.Contains(SearchPhrase)
                 .ToList();
 
-            Assert.That(expectedItems, Is.EqualTo(actualItems));
+            Assert.That(expectedItems, Is.EqualTo(actualItems));    // 10
         }
 
 

@@ -1,5 +1,6 @@
 ﻿using OpenQA.Selenium;
 using WebComponentTest.Components.Impl;
+using WebComponentTest.Entities;
 
 namespace WebComponentTest.Pages.Impl
 {
@@ -13,14 +14,15 @@ namespace WebComponentTest.Pages.Impl
             .Select(element => new SearchResultItemComponent(element))
             .ToList();   
 
-        public IList<string> SearchResultsItemsText()
+        /* DTO */
+        public IList<SearchResultItem> SearchResultsItemsText()       // IList<string>
         {
             /* Explicit Waits - Açık Beklemeler */
             WaitForElementVisibility(SearchResultsItemsCss);
 
             /* NUnit Assertions */
             return SearchResultsItems
-                .Select(item => item.Text.ToLower())
+                .Select(item => item.ConvertToSearchResultItem())    // item.Text.ToLower()
                 .ToList();
         }
     
