@@ -36,3 +36,23 @@
 ## Page Object
 
 ![](images/Page_Object.png)
+
+# Run Selenium Tests via DotNet Command Line
+
+```
+    > dotnet --version
+```
+```
+    > dotnet test
+```
+```
+    > dotnet test -l:"html;LogFilename=TestOutput.html"
+```
+
+![](images/Command_Line_0.png)
+
+![](images/Command_Line_1.png)
+
+![](images/Command_Line_2.png)
+
+![](images/Command_Line_3.png)

@@ -40,7 +40,7 @@ namespace WebComponentTest
             /* NUnit Assertions */  /* DTO */
             IList<SearchResultItem> actualItems = searchResultsPage.SearchResultsItemsText();                       // IList<string>
 
-            IList<SearchResultItem> expectedItems = searchResultsPage.SearchResultsItemsText() // actualItems       // IList<string>
+            IList<SearchResultItem> expectedItems = actualItems                                                     // IList<string>
                                                  // searchResultsPage.SearchResultsItemsText() -> Error:: Assert.That(expectedItems, Is.EqualTo(actualItems)) Values differ at index [0]
                                                  // SearchResultItem --> Generate Equals and GetHashCode... solved the error.
                 .Where(item => item.Title.Contains(SearchPhrase) || item.Description.Contains(SearchPhrase))        // item.Contains(SearchPhrase)
