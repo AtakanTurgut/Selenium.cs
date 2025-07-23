@@ -56,3 +56,6 @@
 ![](images/Command_Line_2.png)
 
 ![](images/Command_Line_3.png)
+
+# CSS and XPath selectors
+[SelectorsHub](https://chromewebstore.google.com/detail/selectorshub/ndgimibanhlabgdgjcpbbndiehljcpfh)
